@@ -10,3 +10,4 @@
 
 + Support for both portrait and landscape mode
 + Supports SDK version from 18 to 28
++ Added integration tests for online / offline loading
