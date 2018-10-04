@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="title_text">Title : %1$s</string>
+    <string name="pubdate_text">Publication date: %1$s</string>
+    <string name="author_text">Author: %1$s</string>
+    <string name="no_data">Could not fetch data online or offline. Please try again!</string>
+</resources>
